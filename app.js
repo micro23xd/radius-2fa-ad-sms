@@ -12,7 +12,7 @@ var adconfig = require('./adconfig')
 var ad = new activedirectory(adconfig)
 
 // highside message api URL (to send txt messages)
-var highside = 'https://api01.highside.net/start/HyDj5FzD?number='
+var highside = 'https://api01.highside.net/start/aaaaaaaaaa?number=' // needs to be edited to a functional API URL to send text
 
 //var sendTextTo = 'mobile' // refers to the LDAP attribute with the number. use mobile for AD Mobile Number, use telephoneNumber for regular AD Telephone Number.
 
